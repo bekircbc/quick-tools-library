@@ -9,8 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edwardtanguay/qtools.git"
+    "url": "git+https://github.com/bekircbc/quick-tools-library.git"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bekircbc/quick-tools-library/issues"
+  },
+  "homepage": "https://github.com/bekircbc/quick-tools-library#readme",
+  "dependencies": {
+    "csv-parse": "^5.2.0",
+    "markdown-it": "^13.0.1",
+    "sqlite3": "^5.0.8",
+    "xml2json": "^0.12.0"
+  }
 }

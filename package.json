@@ -20,6 +20,7 @@
   "homepage": "https://github.com/bekircbc/quick-tools-library#readme",
   "dependencies": {
     "csv-parse": "^5.2.0",
+    "fast-xml-parser": "^4.0.8",
     "markdown-it": "^13.0.1",
     "sqlite3": "^5.0.8",
     "xml2json": "^0.12.0"

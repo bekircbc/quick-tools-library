@@ -29,3 +29,5 @@
 ## qxml.js
 
       getXmlFileAsObject
+
+      replaced json2xml with fast-xml-parser
